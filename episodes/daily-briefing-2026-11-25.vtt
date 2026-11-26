@@ -1,0 +1,365 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.321
+Narrator: Good morning, Chad.
+
+2
+00:00:01.321 --> 00:00:06.257
+Narrator: It's Wednesday, November twenty-fifth, and this is your Daily Briefing.
+
+3
+00:00:06.257 --> 00:00:08.691
+Narrator: Here's what you need to know today.
+
+4
+00:00:09.141 --> 00:00:11.697
+Narrator: Let's start at home with the weather.
+
+5
+00:00:11.697 --> 00:00:15.081
+Narrator: The first freeze of the season arrived overnight.
+
+6
+00:00:15.081 --> 00:00:29.173
+Narrator: The National Weather Service in Fort Worth has a freeze warning for Tarrant, Denton, and Collin counties until nine this morning, with lows as cold as twenty-five degrees in the western parts of the area.
+
+7
+00:00:29.173 --> 00:00:33.180
+Narrator: In north Fort Worth, expect a low right around thirty-one.
+
+8
+00:00:33.180 --> 00:00:38.360
+Narrator: If you have pipes, plants, or pets outside, check on them before you leave.
+
+9
+00:00:38.810 --> 00:00:42.753
+Narrator: Today will be sunny and cool, with a high near fifty-two.
+
+10
+00:00:42.753 --> 00:00:51.469
+Narrator: Thanksgiving looks about the same: clear skies, a high in the low fifties, and another light freeze possible Thursday morning.
+
+11
+00:00:51.469 --> 00:00:53.060
+Narrator: Then a warm-up arrives.
+
+12
+00:00:53.060 --> 00:00:57.971
+Narrator: Friday climbs into the mid sixties, and Saturday gets close to seventy.
+
+13
+00:00:58.421 --> 00:01:03.591
+Narrator: In local news, the Thanksgiving week holiday kickoff is happening downtown.
+
+14
+00:01:03.591 --> 00:01:11.519
+Narrator: Sundance Square's Christmas tree, billed as the tallest live Christmas tree in Texas, is set to light up this week.
+
+15
+00:01:11.519 --> 00:01:17.034
+Narrator: It's an easy outing if you're looking for something to do over the long weekend.
+
+16
+00:01:17.484 --> 00:01:19.537
+Narrator: Now to the national headlines.
+
+17
+00:01:19.987 --> 00:01:24.192
+Narrator: The biggest business and political story right now is Nvidia.
+
+18
+00:01:24.192 --> 00:01:31.775
+Narrator: The company's board reinstated Jensen Huang as chief executive on Monday, only days after saying it would not.
+
+19
+00:01:31.775 --> 00:01:39.289
+Narrator: Huang had resigned after admitting to an affair with a woman suspected of being a Chinese intelligence asset.
+
+20
+00:01:39.289 --> 00:01:52.800
+Narrator: President Trump says he personally helped broker Huang's return, and Senate Democrats say they will open an investigation into the White House's role once they take control of Congress in January.
+
+21
+00:01:52.800 --> 00:01:58.660
+Narrator: Separately, Reuters reports the S.E.C. is looking into Nvidia's accounting practices.
+
+22
+00:01:58.660 --> 00:02:06.725
+Narrator: The company has formed a new national security and export control committee and is hiring a chief compliance officer.
+
+23
+00:02:07.175 --> 00:02:10.612
+Narrator: Second, if you're traveling this week, plan ahead.
+
+24
+00:02:10.612 --> 00:02:22.709
+Narrator: The Federal Aviation Administration says this will be the busiest Thanksgiving travel period in sixteen years, with more than four hundred seventeen thousand flights scheduled.
+
+25
+00:02:23.159 --> 00:02:30.926
+Narrator: Third, on trade, the United States is reportedly preparing to raise tariffs on China and several other countries.
+
+26
+00:02:30.926 --> 00:02:38.624
+Narrator: Details are still emerging, so watch for the specifics, especially if any of your clients buy hardware overseas.
+
+27
+00:02:39.074 --> 00:02:40.990
+Narrator: Now let's go to the markets.
+
+28
+00:02:41.440 --> 00:02:44.133
+Narrator: Tuesday was a split day on Wall Street.
+
+29
+00:02:44.133 --> 00:02:52.006
+Narrator: The Dow rose eight tenths of a percent, gaining about four hundred twenty points, and closed above fifty thousand.
+
+30
+00:02:52.006 --> 00:03:01.606
+Narrator: Meanwhile, the S and P five hundred fell half a percent to about seventy-two hundred, and the Nasdaq dropped nearly one and a half percent.
+
+31
+00:03:01.606 --> 00:03:07.545
+Narrator: The story was a rotation out of A.I. chip stocks and into health care and value names.
+
+32
+00:03:07.545 --> 00:03:15.625
+Narrator: Nvidia gave back almost six percent after Monday's big rally on the Huang news, and Micron fell about eleven percent.
+
+33
+00:03:15.625 --> 00:03:20.390
+Narrator: On the upside, Sanofi agreed to buy Insmed, which lifted health care.
+
+34
+00:03:20.390 --> 00:03:26.467
+Narrator: Kohl's jumped about nineteen percent and Dollar Tree about eleven after strong earnings.
+
+35
+00:03:26.917 --> 00:03:39.231
+Narrator: On the economy, the Conference Board's consumer confidence index jumped to one hundred three point three, far above the forecast of about ninety-two, helped by falling gas prices.
+
+36
+00:03:39.231 --> 00:03:46.798
+Narrator: The ten-year Treasury yield held near four point nine percent, and gold fell more than two and a half percent.
+
+37
+00:03:46.798 --> 00:03:53.058
+Narrator: The next big number is the P.C.E. inflation report, due today, the day before Thanksgiving.
+
+38
+00:03:53.508 --> 00:03:57.505
+Narrator: And now for the Microsoft three sixty-five and Entra news.
+
+39
+00:03:57.505 --> 00:04:03.156
+Narrator: There are two stories you should know about, and the first one is a must-act item.
+
+40
+00:04:03.606 --> 00:04:08.032
+Narrator: Microsoft has disclosed a data exposure in Entra Connect Health.
+
+41
+00:04:08.032 --> 00:04:16.468
+Narrator: A flaw in the Connect Health A.P.I., introduced on July twenty-third, let unauthorized parties read tenant-level metadata.
+
+42
+00:04:16.468 --> 00:04:25.042
+Narrator: That included administrator and technical contact email addresses, tenant IDs, domain names, and sync configuration details.
+
+43
+00:04:25.042 --> 00:04:27.808
+Narrator: Microsoft says the access was read-only.
+
+44
+00:04:27.808 --> 00:04:34.032
+Narrator: It found the flaw on November ninth and deployed a server-side fix on November nineteenth.
+
+45
+00:04:34.032 --> 00:04:36.590
+Narrator: Reports say attackers did exploit it.
+
+46
+00:04:37.040 --> 00:04:39.046
+Narrator: Here's why it matters to you.
+
+47
+00:04:39.046 --> 00:04:45.201
+Narrator: Any client tenant running Entra Connect Health may have had admin contact emails exposed.
+
+48
+00:04:45.201 --> 00:04:48.382
+Narrator: Those emails are perfect targets for phishing.
+
+49
+00:04:48.382 --> 00:04:59.378
+Narrator: Check the Message Center and Service Health for each tenant you manage to see whether Microsoft notified you, and warn your admins to expect targeted phishing.
+
+50
+00:04:59.378 --> 00:05:03.044
+Narrator: Expect lures that mention Microsoft security notices.
+
+51
+00:05:03.494 --> 00:05:08.052
+Narrator: The second story is the root cause of the November twelfth outage.
+
+52
+00:05:08.052 --> 00:05:20.414
+Narrator: Microsoft's preliminary post-incident report says the nearly twenty-four-hour outage that took down Exchange Online, Outlook, Teams, and Copilot came from three factors lining up.
+
+53
+00:05:20.414 --> 00:05:27.666
+Narrator: First, there was a latent lock-contention bug in the networking gateway servers, also introduced in July.
+
+54
+00:05:27.666 --> 00:05:31.879
+Narrator: Second, Teams traffic failed over onto the Exchange gateways.
+
+55
+00:05:31.879 --> 00:05:37.265
+Narrator: Third, about fourteen percent of gateway capacity was offline for maintenance.
+
+56
+00:05:37.265 --> 00:05:43.895
+Narrator: Microsoft says it was not a cyberattack, and no changes are needed on customer Windows machines.
+
+57
+00:05:43.895 --> 00:05:48.316
+Narrator: If any of your clients asked what happened, this is your answer.
+
+58
+00:05:48.766 --> 00:05:58.589
+Narrator: Also on the calendar this month, Microsoft is retiring SharePoint one-time passcode authentication for external sharing by the end of November.
+
+59
+00:05:58.589 --> 00:06:06.352
+Narrator: If any of your clients' external guests still sign in with a passcode, move them to Entra B2B guest accounts now.
+
+60
+00:06:06.802 --> 00:06:09.266
+Narrator: Now for threats and vulnerabilities.
+
+61
+00:06:09.716 --> 00:06:13.504
+Narrator: The headline is a breach at U.S. intelligence agencies.
+
+62
+00:06:13.504 --> 00:06:23.354
+Narrator: The C.I.A. and the Office of the Director of National Intelligence confirmed that an unclassified open-source intelligence system was breached.
+
+63
+00:06:23.354 --> 00:06:31.689
+Narrator: Officials say no classified information was affected, and a source told the Associated Press the issue has been resolved.
+
+64
+00:06:31.689 --> 00:06:40.988
+Narrator: The New York Times reported that at least three agencies were affected and that the attackers appear to have used an A.I.-powered tool.
+
+65
+00:06:41.438 --> 00:06:46.819
+Narrator: On the known exploited vulnerabilities list, CISA added two entries on Monday.
+
+66
+00:06:46.819 --> 00:06:51.510
+Narrator: Federal agencies must patch both by tomorrow, November twenty-sixth.
+
+67
+00:06:51.510 --> 00:07:01.376
+Narrator: The first is relevant to the MSP world: a server-side request forgery flaw in N-able Mail Assure, formerly SpamExperts, rated nine point three.
+
+68
+00:07:01.376 --> 00:07:06.550
+Narrator: If you or any clients use Mail Assure, confirm you're on the patched build.
+
+69
+00:07:06.550 --> 00:07:12.689
+Narrator: The second is a critical path traversal flaw in MONAI Label, a medical imaging A.I. tool.
+
+70
+00:07:12.689 --> 00:07:23.865
+Narrator: That one is notable because, according to Amazon threat intelligence, autonomous A.I. agents found and exploited it on their own to take over a university server.
+
+71
+00:07:24.315 --> 00:07:32.735
+Narrator: Last week, CISA also added actively exploited flaws in VMware vCenter, Cisco Expressway, Apache Roller, and SAP NetWeaver.
+
+72
+00:07:32.735 --> 00:07:37.429
+Narrator: The vCenter flaw is an authentication bypass rated nine point eight.
+
+73
+00:07:37.429 --> 00:07:40.396
+Narrator: If you run vCenter anywhere, prioritize it.
+
+74
+00:07:40.846 --> 00:07:43.310
+Narrator: Moving on to A.I. and local L.L.M.s.
+
+75
+00:07:43.760 --> 00:07:48.376
+Narrator: November has been one of the busiest months yet for model releases.
+
+76
+00:07:48.376 --> 00:07:56.851
+Narrator: OpenAI shipped G.P.T. six point two in two versions, Astra and Sol, and cut prices on the flagship by about twenty percent.
+
+77
+00:07:56.851 --> 00:08:08.908
+Narrator: Google finished its Gemini four lineup with Gemini four Neon, a mid-tier model that's ranking at the top of coding-agent benchmarks for three dollars per million input tokens.
+
+78
+00:08:08.908 --> 00:08:16.831
+Narrator: Microsoft released MAI Code two, which it says gets close to top-tier coding performance at a fraction of the cost.
+
+79
+00:08:16.831 --> 00:08:24.065
+Narrator: Earlier in the month, Anthropic released Claude Fable five point two, and Alibaba launched Qwen four Max.
+
+80
+00:08:24.515 --> 00:08:30.096
+Narrator: On the local hardware side, Nvidia's RTX Spark platform keeps picking up support.
+
+81
+00:08:30.096 --> 00:08:40.636
+Narrator: The chip pairs a Blackwell G.P.U. with a Grace C.P.U. and up to one hundred twenty-eight gigabytes of unified memory, in slim laptops and small desktops.
+
+82
+00:08:40.636 --> 00:08:51.866
+Narrator: Nvidia currently recommends models around the thirty-billion-parameter range for local agents, which means you want at least forty-eight gigabytes of total memory.
+
+83
+00:08:51.866 --> 00:08:59.030
+Narrator: Nvidia's Nemotron three point five Bolt is built specifically for running local agents on this hardware.
+
+84
+00:08:59.030 --> 00:09:05.368
+Narrator: If you're thinking about your next home lab box, that memory guidance is a useful benchmark.
+
+85
+00:09:05.818 --> 00:09:17.708
+Narrator: Finally, in big tech, beyond the Nvidia drama, Dell posted record quarterly revenue of fifty-four point nine billion dollars, beating its own forecast on A.I. server demand.
+
+86
+00:09:17.708 --> 00:09:29.116
+Narrator: Amazon is reportedly buying A.I. optimization technology from Decart for around seven billion dollars, a bet on running models more cheaply on its own Trainium chips.
+
+87
+00:09:29.116 --> 00:09:37.912
+Narrator: And the Commerce Department moved to stop Chinese companies from renting advanced chips through data centers in other countries.
+
+88
+00:09:38.362 --> 00:09:40.787
+Narrator: That's your briefing for Wednesday.
+
+89
+00:09:40.787 --> 00:09:52.076
+Narrator: To recap the action items: check your tenants for an Entra Connect Health notice, patch N-able Mail Assure and vCenter if you run them, and bundle up this morning.
+
+90
+00:09:52.076 --> 00:09:54.293
+Narrator: Have a great Thanksgiving, Chad.
+
+91
+00:09:54.293 --> 00:09:55.470
+Narrator: See you tomorrow.
