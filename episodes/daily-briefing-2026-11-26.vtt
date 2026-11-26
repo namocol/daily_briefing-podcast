@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.807
+Narrator: Good morning, Chad!
+
+2
+00:00:00.807 --> 00:00:04.121
+Narrator: It's Thursday, November twenty-sixth, and welcome back to your Daily Briefing.
+
+3
+00:00:04.121 --> 00:00:04.928
+Narrator: Happy Thanksgiving!
+
+4
+00:00:04.928 --> 00:00:14.955
+Narrator: Today: Jensen Huang is back running Nvidia and the market can't decide how it feels about that, Microsoft calls a Code Red after its big outage, and CISA drops a holiday pile of exploited bugs, including one in a tool a lot of MSPs use.
+
+5
+00:00:15.305 --> 00:00:16.141
+Narrator: Let's start at home.
+
+6
+00:00:16.141 --> 00:00:20.239
+Narrator: It's a crisp, sunny Thanksgiving morning in north Fort Worth, about thirty-four degrees right now.
+
+7
+00:00:20.239 --> 00:00:26.930
+Narrator: We top out around fifty-three this afternoon, and the Dallas Morning News says it stays in the thirties and forties until about one o'clock, with a bit of wind.
+
+8
+00:00:26.930 --> 00:00:29.313
+Narrator: Tonight drops to around thirty-one, so bring the pets in.
+
+9
+00:00:29.313 --> 00:00:33.411
+Narrator: Then a nice warm-up: upper sixties Friday, about seventy on Saturday, and dry through the weekend.
+
+10
+00:00:33.411 --> 00:00:35.544
+Narrator: The next real rain chance looks like next Thursday.
+
+11
+00:00:35.894 --> 00:00:37.467
+Narrator: Locally, it's a big travel weekend.
+
+12
+00:00:37.467 --> 00:00:44.072
+Narrator: DFW Airport expects about three point one million passengers between November nineteenth and December first, up almost five percent from last year.
+
+13
+00:00:44.072 --> 00:00:49.059
+Narrator: The busiest day is Sunday, with about a hundred thirty-seven thousand travelers starting or ending trips there.
+
+14
+00:00:49.059 --> 00:00:52.789
+Narrator: Texas state troopers also started five days of extra highway enforcement yesterday.
+
+15
+00:00:52.789 --> 00:00:54.541
+Narrator: So if you're driving, watch your speed.
+
+16
+00:00:54.541 --> 00:00:56.743
+Narrator: And of course, the Cowboys host the Eagles today.
+
+17
+00:00:56.743 --> 00:01:02.000
+Narrator: It's Dallas's fifty-ninth Thanksgiving game since nineteen sixty-six, and they've won their last four on the holiday.
+
+18
+00:01:02.350 --> 00:01:07.863
+Narrator: One civic item worth tracking: Fort Worth City Council is moving toward a ninety-day pause on new data center construction.
+
+19
+00:01:07.863 --> 00:01:12.166
+Narrator: The first of two required public hearings was earlier this month, with about two dozen speakers.
+
+20
+00:01:12.166 --> 00:01:16.110
+Narrator: That matters for anyone watching where North Texas compute and power capacity goes next.
+
+21
+00:01:16.460 --> 00:01:17.342
+Narrator: Okay, the big story.
+
+22
+00:01:17.342 --> 00:01:21.578
+Narrator: Nvidia's board reinstated Jensen Huang as president and C.E.O. on Monday, effective immediately.
+
+23
+00:01:21.578 --> 00:01:22.769
+Narrator: That's a complete reversal.
+
+24
+00:01:22.769 --> 00:01:30.579
+Narrator: Just last week, the board chair said it had no plans to bring him back after he resigned over reported ties to a woman U.S. intelligence officials suspect was working for China.
+
+25
+00:01:30.579 --> 00:01:36.977
+Narrator: In its filing, the board said it got input from senior levels of the U.S. government and is confident his return poses no national security risk.
+
+26
+00:01:36.977 --> 00:01:42.271
+Narrator: The Washington Post reports Pentagon officials even discussed using the Defense Production Act as leverage on the board.
+
+27
+00:01:42.271 --> 00:01:46.683
+Narrator: And S and P now says it could cut Nvidia's credit rating over rising management and governance risk.
+
+28
+00:01:47.033 --> 00:01:48.046
+Narrator: Wall Street's reaction?
+
+29
+00:01:48.046 --> 00:01:48.442
+Narrator: Whiplash.
+
+30
+00:01:48.442 --> 00:01:50.203
+Narrator: The comeback rally on Monday faded fast.
+
+31
+00:01:50.203 --> 00:01:54.033
+Narrator: Nvidia fell about four percent on Wednesday to close near a hundred forty-nine dollars.
+
+32
+00:01:54.033 --> 00:02:02.575
+Narrator: Separately, Nvidia agreed to pay two hundred ninety million dollars to settle an old class action over how much crypto mining boosted its gaming chip sales back in twenty seventeen and eighteen.
+
+33
+00:02:02.575 --> 00:02:05.480
+Narrator: Nvidia denies wrongdoing, and the deal still needs court approval.
+
+34
+00:02:05.480 --> 00:02:11.776
+Narrator: Why it matters to you: Huang and Nvidia's general counsel are scheduled to answer questions from House committees on December first and second.
+
+35
+00:02:11.776 --> 00:02:15.166
+Narrator: Expect more headlines, and more volatility in anything tied to A.I. hardware.
+
+36
+00:02:15.516 --> 00:02:16.601
+Narrator: Now the rest of the market.
+
+37
+00:02:16.601 --> 00:02:18.247
+Narrator: Stocks had a wild day before the holiday.
+
+38
+00:02:18.247 --> 00:02:23.790
+Narrator: The S and P five hundred was down as much as three point two percent early, then clawed back to close down just three tenths of a percent.
+
+39
+00:02:23.790 --> 00:02:27.406
+Narrator: The Dow actually finished up a hundred sixty-four points, about three tenths of a percent.
+
+40
+00:02:27.406 --> 00:02:31.262
+Narrator: The Nasdaq fell six tenths of a percent to about twenty-three thousand, five hundred eighty-six.
+
+41
+00:02:31.262 --> 00:02:34.475
+Narrator: Small caps did best, with the Russell two thousand up seven tenths of a percent.
+
+42
+00:02:34.475 --> 00:02:37.247
+Narrator: Chip names took the hit: Micron down four percent, Sandisk down five.
+
+43
+00:02:37.247 --> 00:02:41.504
+Narrator: Traders were weighing a hot P.C.E. inflation report, the Fed's preferred gauge, plus new tariff proposals.
+
+44
+00:02:41.504 --> 00:02:42.348
+Narrator: Treasury yields fell.
+
+45
+00:02:42.348 --> 00:02:48.212
+Narrator: Even with all that, it's still a strong week: the S and P is up three point nine percent, the Dow four point two, and the Nasdaq four point three.
+
+46
+00:02:48.212 --> 00:02:49.899
+Narrator: Markets are closed today for Thanksgiving.
+
+47
+00:02:50.249 --> 00:02:51.377
+Narrator: Next, your Microsoft world.
+
+48
+00:02:51.377 --> 00:02:56.596
+Narrator: Reuters reports Microsoft has declared a Code Red over the November twelfth and thirteenth Microsoft three sixty-five outage.
+
+49
+00:02:56.596 --> 00:02:59.644
+Narrator: That one knocked out Exchange Online, Outlook, and Teams for about a day.
+
+50
+00:02:59.644 --> 00:03:07.828
+Narrator: Microsoft's own leadership called it the most customer-impacting incident in Exchange Online's history, and internal memos say the new goal is to resolve future incidents worldwide within an hour.
+
+51
+00:03:08.178 --> 00:03:09.256
+Narrator: Here's the part to act on.
+
+52
+00:03:09.256 --> 00:03:10.914
+Narrator: Attackers are still milking that outage.
+
+53
+00:03:10.914 --> 00:03:14.522
+Narrator: Cofense and Mimecast both flagged phishing campaigns that pretend to be from Microsoft.
+
+54
+00:03:14.522 --> 00:03:20.492
+Narrator: The emails claim your mail is being held because of the Exchange disruption, then send people to a fake Microsoft three sixty-five sign-in page.
+
+55
+00:03:20.492 --> 00:03:26.877
+Narrator: So it's a good week to push a quick user warning to your clients, and to make sure phishing-resistant M.F.A. and Conditional Access are actually enforced.
+
+56
+00:03:26.877 --> 00:03:35.004
+Narrator: UC Today also reports Microsoft told some affected customers that attackers abused a flaw in the Entra Connect Health A.P.I. to read administrator email addresses and tenant configuration details.
+
+57
+00:03:35.004 --> 00:03:37.533
+Narrator: Microsoft fixed it on the server side on November nineteenth.
+
+58
+00:03:37.533 --> 00:03:42.881
+Narrator: If you got that notice for any tenant, review your admin sign-ins and watch for targeted phishing aimed at those admin addresses.
+
+59
+00:03:43.231 --> 00:03:52.609
+Narrator: One more reminder: the actively exploited Outlook zero-day from November Patch Tuesday, the one that leaks NTLM hashes when someone opens a crafted message, had a federal deadline of November twenty-fourth.
+
+60
+00:03:52.609 --> 00:03:57.845
+Narrator: If any client is still on an unpatched build of Microsoft three sixty-five Apps or Office L.T.S.C., close that gap.
+
+61
+00:03:58.195 --> 00:03:59.152
+Narrator: Now threats and CVEs.
+
+62
+00:03:59.152 --> 00:04:00.473
+Narrator: CISA has been busy this week.
+
+63
+00:04:00.473 --> 00:04:04.984
+Narrator: On Monday it added two exploited bugs, and one is in N-able Mail Assure, also known as SpamExperts.
+
+64
+00:04:04.984 --> 00:04:08.675
+Narrator: If you or your clients use that for mail filtering, it's at the top of your list.
+
+65
+00:04:08.675 --> 00:04:10.042
+Narrator: The federal due date is today.
+
+66
+00:04:10.042 --> 00:04:17.195
+Narrator: On Tuesday, CISA added three more: a remote code execution flaw in Drupal core, plus flaws in the Idunno AntiCsrf library and Optimizely Web Experimentation.
+
+67
+00:04:17.195 --> 00:04:18.243
+Narrator: Those are due tomorrow.
+
+68
+00:04:18.243 --> 00:04:20.157
+Narrator: Then on Wednesday, CISA added ten at once.
+
+69
+00:04:20.157 --> 00:04:24.395
+Narrator: Five are in Mitel MiCollab, covering file upload, command injection, and weak authentication.
+
+70
+00:04:24.395 --> 00:04:28.450
+Narrator: There are also three in Danfoss building controllers, an O.S. command injection in H.P.E.
+
+71
+00:04:28.450 --> 00:04:31.549
+Narrator: Juniper's Session Smart Router, and one tied to Vates' Xen platform.
+
+72
+00:04:31.549 --> 00:04:33.007
+Narrator: The Juniper fix is due Saturday.
+
+73
+00:04:33.007 --> 00:04:37.062
+Narrator: Patch order for you: Mail Assure first, then any Mitel MiCollab boxes, then Drupal sites.
+
+74
+00:04:37.062 --> 00:04:39.887
+Narrator: CISA flags these for forensic triage too, so don't just patch.
+
+75
+00:04:39.887 --> 00:04:42.940
+Narrator: Check for accounts or credentials an attacker may have left behind.
+
+76
+00:04:43.290 --> 00:04:43.743
+Narrator: On to A.I.
+
+77
+00:04:43.743 --> 00:04:49.954
+Narrator: OpenAI started rolling out GPT six point two Sol to the main Chat tab in ChatGPT on Monday for Plus, Pro, Business, and Enterprise users.
+
+78
+00:04:49.954 --> 00:04:54.987
+Narrator: It's tuned for everyday conversation, with sharper photo detail and better instruction-following in web search.
+
+79
+00:04:54.987 --> 00:05:00.155
+Narrator: The catch: GPT five point six Sol and Terra retire on December twenty-third, and some subscribers aren't thrilled.
+
+80
+00:05:00.155 --> 00:05:03.691
+Narrator: If any of your users or workflows depend on those models, plan the switch now.
+
+81
+00:05:03.691 --> 00:05:06.366
+Narrator: On the local L.L.M. front, nothing major dropped this week.
+
+82
+00:05:06.366 --> 00:05:12.169
+Narrator: The biggest open-weight news this month is still Kimi K three point one Pro, which released its full weights on November fourth.
+
+83
+00:05:12.519 --> 00:05:13.391
+Narrator: Quick big tech hits.
+
+84
+00:05:13.391 --> 00:05:21.022
+Narrator: A CBS News investigation found Nvidia sold its most advanced chips to at least two Chinese-owned California companies, which then leased or sold some of them to firms in Asia.
+
+85
+00:05:21.022 --> 00:05:25.078
+Narrator: Apple pulled the MiniMax chatbot app Talkie from the App Store worldwide over sexual content.
+
+86
+00:05:25.078 --> 00:05:30.354
+Narrator: And Bloomberg reports U.S. chip curbs are stalling billions in data center loans tied to ByteDance, Alibaba, and Tencent.
+
+87
+00:05:30.704 --> 00:05:32.208
+Narrator: And a quick look at the wider world.
+
+88
+00:05:32.208 --> 00:05:34.924
+Narrator: Nvidia's leadership drama is a national story too, as we covered.
+
+89
+00:05:34.924 --> 00:05:41.358
+Narrator: In Israel, former military chief Gadi Eisenkot, who's trying to form the next government, signed his first coalition deal, with Avigdor Lieberman's party.
+
+90
+00:05:41.358 --> 00:05:47.082
+Narrator: And a BBC analysis of leaked Russian state statistics puts Russia's military death toll in Ukraine at about four hundred ninety thousand.
+
+91
+00:05:47.082 --> 00:05:48.837
+Narrator: Moscow doesn't publish an official figure.
+
+92
+00:05:49.187 --> 00:05:49.992
+Narrator: Okay, recap time.
+
+93
+00:05:49.992 --> 00:05:51.128
+Narrator: Here's your action list.
+
+94
+00:05:51.128 --> 00:05:55.008
+Narrator: One: patch or mitigate N-able Mail Assure today, then Mitel MiCollab, then Drupal.
+
+95
+00:05:55.008 --> 00:06:00.686
+Narrator: Two: send clients a heads-up about fake Microsoft outage phishing, and check that phishing-resistant M.F.A. is enforced.
+
+96
+00:06:00.686 --> 00:06:04.520
+Narrator: Three: if you got Microsoft's Entra Connect Health notice, review admin sign-ins.
+
+97
+00:06:04.520 --> 00:06:07.122
+Narrator: Four: confirm the Outlook zero-day patch is everywhere.
+
+98
+00:06:07.122 --> 00:06:10.813
+Narrator: And five: plan for the GPT five point six retirement on December twenty-third.
+
+99
+00:06:11.163 --> 00:06:12.009
+Narrator: That's it for today.
+
+100
+00:06:12.009 --> 00:06:14.377
+Narrator: Enjoy the turkey, enjoy the game, and take a real break.
+
+101
+00:06:14.377 --> 00:06:15.096
+Narrator: You've earned it.
+
+102
+00:06:15.096 --> 00:06:18.353
+Narrator: Happy Thanksgiving, Chad, and I'll catch you next time on the Daily Briefing.
